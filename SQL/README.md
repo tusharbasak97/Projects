@@ -26,3 +26,7 @@ Compilation of SQL related projects and challenges where I practice those skills
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget turpis sit amet ipsum tincidunt suscipit. Sed ac mi et dolor tincidunt tincidunt nec sed sem. Donec a nisi ut nisl fringilla scelerisque.
 
 - Done
+
+---
+
+### Show some ❤️ by starring some of the repositories!
