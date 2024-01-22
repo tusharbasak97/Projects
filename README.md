@@ -7,7 +7,8 @@ Curate a compilation of all projects relevant to my personal practice, intended 
 - [Python](Python)
   | SR No | Project Name |
   | ------------- | ------------- |
-  | 1 | [todo](https://github.com/tusharbasak97/Projects/tree/main/Python/todo) |
+  | 1 | [todo_app](https://github.com/tusharbasak97/Projects/tree/main/Python/todo) |
+  | 2 | [Hello World]() |
 
 - [SQL](SQL)
   | SR No | Project Name |
