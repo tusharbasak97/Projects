@@ -15,7 +15,7 @@ Curate a compilation of all projects relevant to my personal practice, intended 
   | ------------- | ------------- |
   | 1 | [Hello World]() |
 
-- [Visualization](Visualization)
+- [Cybersecurity](Cybersecurity)
   | SR No | Project Name |
   | ------------- | ------------- |
   | 1 | [Hello World]() |
